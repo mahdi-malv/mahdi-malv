@@ -1,5 +1,4 @@
-### Mahdi Malvandi
-> Android software developer at [Pushe](https://pushe.co)
+## Mahdi Malvandi
 
 ![Mahdi's github stats](https://github-readme-stats.vercel.app/api?username=mahdi-malv&show_icons=true&theme=highcontrast)
 
@@ -20,3 +19,5 @@
 ![githa](https://img.shields.io/badge/-Github%20Actions-0034b7?style=flat-square&logo=github-actions)
 ![docker](https://img.shields.io/badge/-Docker-2b5475?style=flat-square&logo=docker)
 
+### Currently:
+Android SDK developer at [Pushe](https://pushe.co)
