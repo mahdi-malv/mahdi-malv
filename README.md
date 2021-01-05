@@ -1,6 +1,6 @@
 ## Mahdi Malvandi
 
-![Mahdi's github stats](https://github-readme-stats.vercel.app/api?username=mahdi-malv&show_icons=true&theme=highcontrast)
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mahdi-malv&show_icons=true&theme=highcontrast" /></div>
 
 
 [<img src="https://img.shields.io/badge/Home%20Page-malv.ir-faff00?style=flat-square&labelColor=000000&logo=google-chrome" />](https://malv.ir)
