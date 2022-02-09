@@ -10,6 +10,7 @@
 > **Note**: I'm not skilled in all of these! I've just worked with them in my journey.  
 > 
 ![Android](https://img.shields.io/badge/-Android-000000?style=flat-square&logo=android)
+![AndroidPlugin](https://img.shields.io/badge/-AndroidSDK-000000?style=flat-square&logo=android)</br>
 ![AS](https://img.shields.io/badge/-Android%20Studio-2b1f1c?style=flat-square&logo=android-studio)
 ![kotlin](https://img.shields.io/badge/-Kotlin-350a00?style=flat-square&logo=kotlin)
 ![Java](https://img.shields.io/badge/-Java-d66700?style=flat-square&logo=java)</br>
