@@ -6,11 +6,15 @@
 <div align="center"><a href="https://malv.ir"><img src="https://img.shields.io/badge/Home%20Page-malv.ir-faff00?style=flat-square&labelColor=000000&logo=google-chrome" /></a></div>
 <br /><br />
 
+
+> **Note**: I'm not skilled in all of these! I've just worked with them in my journey.  
+> 
 ![Android](https://img.shields.io/badge/-Android-000000?style=flat-square&logo=android)
 ![AS](https://img.shields.io/badge/-Android%20Studio-2b1f1c?style=flat-square&logo=android-studio)
 ![kotlin](https://img.shields.io/badge/-Kotlin-350a00?style=flat-square&logo=kotlin)
-![Java](https://img.shields.io/badge/-Java-d66700?style=flat-square&logo=java)
+![Java](https://img.shields.io/badge/-Java-d66700?style=flat-square&logo=java)</br>
 ![Flutter](https://img.shields.io/badge/-Flutter-0075ce?style=flat-square&logo=flutter)
+![Flutter plugin](https://img.shields.io/badge/-FlutterPlugin-0075ce?style=flat-square&logo=flutter)</br>
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python)
 ![Unity](https://img.shields.io/badge/-Unity%20Plugin-000000?style=flat-square&logo=unity)
 ![React](https://img.shields.io/badge/-React%20Native-015f7f?style=flat-square&logo=react)
