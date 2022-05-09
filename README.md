@@ -1,7 +1,8 @@
 ## Mahdi Malvandi
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mahdi-malv&show_icons=true&theme=highcontrast" /></div>
+<div align="start"><img src="https://github-readme-stats.vercel.app/api?username=mahdi-malv&show_icons=true" /></div>
 
+<div align="start"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi-malv&show_icons=true" /></div>
 
 <div align="center"><a href="https://malv.ir"><img src="https://img.shields.io/badge/Home%20Page-malv.ir-faff00?style=flat-square&labelColor=000000&logo=google-chrome" /></a></div>
 <br /><br />
