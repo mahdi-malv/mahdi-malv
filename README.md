@@ -1,12 +1,13 @@
-## Mahdi Malvandi
+## ✋ Hey visitor, I'm Mahdi 😃
 
-<div align="start"><img src="https://github-readme-stats.vercel.app/api?username=mahdi-malv&show_icons=true" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mahdi-malv&show_icons=true" /></div>
 
-<div align="start"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi-malv&show_icons=true" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi-malv&show_icons=true" /></div>
 
 <div align="center"><a href="https://malv.ir"><img src="https://img.shields.io/badge/Home%20Page-malv.ir-faff00?style=flat-square&labelColor=000000&logo=google-chrome" /></a></div>
 <br /><br />
 
+<div align="center">
 
 > **Note**: I'm not necessarily skilled in all of these!  I've just worked with them along my journey.
 > 
@@ -27,13 +28,12 @@
 ![githa](https://img.shields.io/badge/-Github%20Actions-0034b7?style=flat-square&logo=github-actions)</br>
 ![docker](https://img.shields.io/badge/-Docker-2b5475?style=flat-square&logo=docker)
 
-### Currently:
-Android SDK developer at [Tapsell](https://tapsell.ir)
+</div>
 
-### Contact
+### Currently:
+> **Open to new opportunities**
 
 <a href="https://www.linkedin.com/in/mahdi-malvandi-26716213b/">
-  <img align="left" alt="Mahdi's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Mahdi's LinkdeIN" width="42px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=mahdi-malv/mahdi-malv)
