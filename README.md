@@ -4,7 +4,7 @@
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi-malv&show_icons=true" /></div>
 
-<div align="center"><a href="https://mahdi-malv.com"><img src="https://img.shields.io/badge/Home%20Page-mahdi-malv.com-faff00?style=flat-square&labelColor=000000&logo=google-chrome" /></a></div>
+<div align="center"><a href="https://mahdi-malv.com"><img src="https://img.shields.io/badge/Home%20Page-mahdi--malv.com-faff00?style=flat-square&labelColor=000000&logo=google-chrome" /></a></div>
 <br /><br />
 
 <div align="center">
